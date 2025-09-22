@@ -1,4 +1,4 @@
-# Lab02 - Visualización en pantalla LCD de 16x2 
+# Lab05 - Visualización en pantalla LCD de 16x2 
 
 ## Integrantes
 
